@@ -4,6 +4,7 @@
 # Pseudocode
 
 # User's input name
+user_input = input("Please enter your complete name: ")
 
 #Print name
 
