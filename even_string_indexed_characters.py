@@ -10,6 +10,6 @@ user_input = input("Please enter your complete name: ")
 print(user_input)
 
 # Create a loop for even indices
-
+for names in range (0, len(user_input), 2):
     # Print name and index values
     
