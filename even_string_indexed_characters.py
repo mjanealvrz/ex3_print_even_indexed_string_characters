@@ -13,5 +13,5 @@ print(user_input)
 for names in range (0, len(user_input), 2):
 
     # Print characters and index  even values
-    print("Index Characters: ", user_input[names], "Index Values: ", names)
+    print("Index Characters: ", user_input[names], "Index Values: ", [names])
     
