@@ -11,5 +11,7 @@ print(user_input)
 
 # Create a loop for even indices
 for names in range (0, len(user_input), 2):
+    
     # Print name and index values
+    print("Index Letters: ", user_input[names], "Index Values: ", names)
     
