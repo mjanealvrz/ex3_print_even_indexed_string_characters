@@ -7,6 +7,7 @@
 user_input = input("Please enter your complete name: ")
 
 #Print name
+print(user_input)
 
 # Create a loop for even indices
 
